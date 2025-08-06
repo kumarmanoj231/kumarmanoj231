@@ -1,4 +1,4 @@
-# Hi, I'm Manoj Kumar:
+# Hi, I'm Manoj Kumar
 🔭 I’m currently pursuing BTech in Computer Science<br>💬 I’m currently learning React till .. Mastery<br>
 
 
