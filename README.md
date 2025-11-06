@@ -1,7 +1,9 @@
+
 ### Hey, I'm Manoj Kumar! 👋🏻
 
 ![Profile Image](./v873-bb-14.jpg)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kumarmanoj231.kumarmanoj231)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```yaml
 name: Manoj Kumar,
 located_in: Guna, Madhya Pradesh,
@@ -27,3 +29,5 @@ hobbies: [ "Listening music", "Travelling", "Gaming"]
 >**&nbsp;Socials**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumarlodha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lodhamanoj383@gmail.com) 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
