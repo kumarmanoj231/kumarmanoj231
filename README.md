@@ -1,6 +1,7 @@
+
+
 ### Hey, I'm Manoj! 👋🏻
 
-> **🙋🏻‍♀️A Little bit about me**
 ```yaml
 name: Manoj Kumar
 located_in : Guna, Madhya Pradesh
@@ -33,3 +34,13 @@ hobbies: [ "Listening music", "Travelling", "Gaming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="35" height="35"  />  &nbsp;&nbsp;&nbsp;&nbsp;                                 
 </p>
 
+
+
+
+
+<i>Follow me around the web:</i><br>
+
+<a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/manojkumarlodha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:lodhamanoj383@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</div>
