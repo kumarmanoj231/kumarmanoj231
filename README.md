@@ -4,13 +4,13 @@
 
 ```yaml
 name: Manoj Kumar,
-located_in : Guna, Madhya Pradesh,
-current_status : Final-Year Undergraduate,
+located_in: Guna, Madhya Pradesh,
+current_status: Final-Year Undergraduate,
 education: {
   "Self-learning enthusiastic individual",  
   "Bachelor's in Computer Science",
 },
-fields_of_interests:{
+fields_of_interests: {
   "Data Structures & Algorithms",
   "Web Development",
   "Machine Learning",
