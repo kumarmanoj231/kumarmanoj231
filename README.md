@@ -33,4 +33,3 @@ hobbies: [ "Listening music", "Travelling", "Gaming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="35" height="35"  />  &nbsp;&nbsp;&nbsp;&nbsp;                                 
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/kumarmanoj231/blob/output/github-contribution-grid-snake.svg)
