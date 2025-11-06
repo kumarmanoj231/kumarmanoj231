@@ -1,6 +1,6 @@
-![Profile Image](./v873-bb-14.jpg)
-
 ### Hey, I'm Manoj Kumar! 👋🏻
+
+![Profile Image](./v873-bb-14.jpg)
 
 ```yaml
 name: Manoj Kumar,
