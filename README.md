@@ -1,6 +1,6 @@
 
 ### Hey, I'm Manoj Kumar! 👋🏻
-![Profile Image](./v873-bb-14.jpg)
+![Profile Image](./1766842276437.jpg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```yaml
