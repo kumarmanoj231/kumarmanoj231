@@ -16,7 +16,7 @@ fields_of_interests: {
   "Web Development",
   "Machine Learning",
 },
-currently_learning: ["Saas"],
+currently_learning: ["Revisiting MERN Stack Deve"],
 hobbies: [ "Listening music", "Travelling", "Gaming"]
 ```
 
