@@ -1,11 +1,17 @@
-# Hi there, I'm Manoj Kumar <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30">
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/manojkumarlodha"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linked-in&logoColor=white" alt="linkedin" /></a>&nbsp;
-<a href="https://www.leetcode.com/u/kumarmanoj231/"><img src="https://img.shields.io/badge/LEETCODE-blue?style=for-the-badge" alt="Leetcode" /></a>&nbsp;
-<a href="https://www.medium.com/@kumarmanoj.dev11"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="https://www.neetcode.io/user/FleetGenin725"><img src="https://img.shields.io/badge/Neetcode-000000?style=for-the-badge&logo=neetcode&logoColor=white" alt="Neetcode" /></a>&nbsp;
-  
-<br />
+
+<h1 align="center">
+  Hi there, I'm Manoj Kumar
+  <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30">
+</h1>
+
+<div align="center">
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="display:block;" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manojkumarlodha"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block;" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/u/kumarmanoj231/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="display:block;" /></a>&nbsp;&nbsp;
+<a href="https://www.medium.com/@kumarmanoj.dev11"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="display:block;" /></a>&nbsp;&nbsp;
+<a href="https://www.neetcode.io/user/FleetGenin725"><img src="https://img.shields.io/badge/NEETCODE-3B82F6?style=for-the-badge&logo=neetcode&logoColor=white" alt="NeetCode" style="display:block;" /></a>
+</div>
+<br/>
 
 Enthusiastic MERN Full Stack Developer with a passion for learning new technologies, building useful applications, and solving problems through code. Currently exploring Artificial Intelligence & Machine Learning, while strengthening Data Structures & Algorithms skills in Java.
 
