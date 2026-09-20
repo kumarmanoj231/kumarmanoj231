@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="display:block;" /></a>&nbsp;&nbsp;
+<a href="https://manoj-kumar-lodha.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="display:block;" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manojkumarlodha"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block;" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/u/kumarmanoj231/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="display:block;" /></a>&nbsp;&nbsp;
 <a href="https://www.medium.com/@kumarmanoj.dev11"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="display:block;" /></a>&nbsp;&nbsp;
