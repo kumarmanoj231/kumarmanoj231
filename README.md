@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there, I'm Manoj Kumar <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30">
+<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linked-in&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/LEETCODE-blue?style=for-the-badge" alt="Leetcode" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Neetcode-000000?style=for-the-badge&logo=neetcode&logoColor=white" alt="Neetcode" /></a>&nbsp;
+  
+<br />
+<!-- 
+I am a Dev & UX Accessibility Specialist at <a href="https://atos.net/en/">Atos</a>. I love to **learn** about new technology, **connect** with people around the world and **help** others get into tech as well.
 
+Currently I am learning **Java**, and everything about **Cyber Security**.
+
+I am <a href="https://developers.google.com/community/experts">Google Developer Expert</a> for Web Technologies since 2023. Read my newsletter <a href="https://gdeinsights.substack.com/">Newsletter GDI Insights</a> to see what it looks like being a GDE.
+
+I am a public speaker and give talks and workshops, as well as panel discussions about accessibility and how to get into tech as a selftaught developer. You can see me on conferences like [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress), [UXCon Vienna](https://www.uxcon.io/), [FrontMania](https://frontmania.com/), and more.
+
+I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where I share articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. Articles are available in German, English, and Japanese.
+
+<a href="https://www.accessibilityfirst.at/webinar-series">Check out my Accessibility Webinar series</a>, where I talked monthly about accessibility in the web development process, meaning design, development, testing, and more.
+
+<br />
+
+## 💼 Languages and Tools
+
+Currently, I use these languages and tools on a regular basis.
+
+<br />
+<div>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+<br />
+
+## 📕 Latest Blog Posts
+
+Read my latest blog posts about Accessibility, UX Research and more on <a href="https://accessibilityfirst.at/">Accessibility First</a> in German, English or Japanese.
+
+<!-- DEV:START -->
 <!--
-**kumarmanoj231/kumarmanoj231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Red Team vs Blue Team — I Choose You!](https://dev.to/yuridevat/red-team-vs-blue-team-i-choose-you-1ljp)
+- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/gdg/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
+- [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
+- [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
+- [Styling by Language: Using the lang Attribute for Multilingual Design](https://dev.to/yuridevat/styling-by-language-using-the-lang-attribute-for-multilingual-design-1087)
+<!-- DEV:END -->
+<!--
+... [Read more articles on Dev.To](https://dev.to/yuridevat)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+- 📜 Certified Professional Web Accessibility (CPWA) by [IAAP](https://www.accessibilityassociation.org/cpwa).
+- 🏆 Runner Up - MindsDB x Hashnode Hackathon 2023. Check out my article about the project [Develop Interview Winning Portfolio Projects With Mindsdb Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions) article for this challenge.
+- 🏆 Winner - Hashnode DebuggingFeb Writeathon 2023. Check out my article [How Debugging For Accessibility Helped Me Finally Understand useRef](https://yuridevat.hashnode.dev/how-debugging-for-accessibility-helped-me-finally-understand-useref) for this challenge.
+- 🏆 Winner - Hashnode Writeathon 4 articles 4 weeks 2022. Check out my most engaged article [How I got my first job as a developer](https://yuridevat.hashnode.dev/how-i-got-my-first-job-as-a-developer) for this challenge.
+- 🏆 Runner Up - Clerk x Hashnode Hackathon 2021. Check out my article about the project [SOS Animals App](https://yuridevat.hashnode.dev/sos-animals-hackathon-project) for this challenge.
+
+<br />
+
+## Some doors have to be closed to make room for something new
+
+Until Spring 2024
+- I was an Open Source Maintainer and founder of <a href="https://www.yuriscodingclub.com/">YurisCodingClub</a>, an inclusive open source community. The projects were part of <a href="https://hacktoberfest.com/">Hacktoberfest</a> to help CodeNewbies get into open source and tech from an early stage.
+- I was a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes/">The Collab Lab</a> since 2021.
+- I was regularly writing blog posts on DEV.to since 2021.
+- In 2021 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
+
