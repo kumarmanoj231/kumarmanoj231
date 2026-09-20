@@ -1,9 +1,9 @@
 # Hi there, I'm Manoj Kumar <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30">
 <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/manojkumarlodha"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linked-in&logoColor=white" alt="linkedin" /></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/LEETCODE-blue?style=for-the-badge" alt="Leetcode" /></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Neetcode-000000?style=for-the-badge&logo=neetcode&logoColor=white" alt="Neetcode" /></a>&nbsp;
+<a href="https://www.leetcode.com/u/kumarmanoj231/"><img src="https://img.shields.io/badge/LEETCODE-blue?style=for-the-badge" alt="Leetcode" /></a>&nbsp;
+<a href="https://www.medium.com/@kumarmanoj.dev11"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="https://www.neetcode.io/user/FleetGenin725"><img src="https://img.shields.io/badge/Neetcode-000000?style=for-the-badge&logo=neetcode&logoColor=white" alt="Neetcode" /></a>&nbsp;
   
 <br />
 <!-- 
