@@ -6,21 +6,15 @@
 <a href="https://www.neetcode.io/user/FleetGenin725"><img src="https://img.shields.io/badge/Neetcode-000000?style=for-the-badge&logo=neetcode&logoColor=white" alt="Neetcode" /></a>&nbsp;
   
 <br />
-<!-- 
-I am a Dev & UX Accessibility Specialist at <a href="https://atos.net/en/">Atos</a>. I love to **learn** about new technology, **connect** with people around the world and **help** others get into tech as well.
 
-Currently I am learning **Java**, and everything about **Cyber Security**.
+I am a **MERN Full Stack Developer** who loves to **learn** about new technologies, **build** useful projects and **solve** problems through code.
 
-I am <a href="https://developers.google.com/community/experts">Google Developer Expert</a> for Web Technologies since 2023. Read my newsletter <a href="https://gdeinsights.substack.com/">Newsletter GDI Insights</a> to see what it looks like being a GDE.
+Currently, I am exploring **AI & Machine Learning** and improving my skills in **Data Structures & Algorithms**.
 
-I am a public speaker and give talks and workshops, as well as panel discussions about accessibility and how to get into tech as a selftaught developer. You can see me on conferences like [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress), [UXCon Vienna](https://www.uxcon.io/), [FrontMania](https://frontmania.com/), and more.
-
-I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where I share articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. Articles are available in German, English, and Japanese.
-
-<a href="https://www.accessibilityfirst.at/webinar-series">Check out my Accessibility Webinar series</a>, where I talked monthly about accessibility in the web development process, meaning design, development, testing, and more.
+I enjoy turning ideas into real-world applications and continuously learning along the way. I’m always looking to connect with other developers, explore new technologies, and grow as a developer.
 
 <br />
-
+<!-- 
 ## 💼 Languages and Tools
 
 Currently, I use these languages and tools on a regular basis.
