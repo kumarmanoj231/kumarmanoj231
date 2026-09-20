@@ -7,9 +7,8 @@
   
 <br />
 
-I am a **MERN Full Stack Developer** who loves to **learn** about new technologies, **build** useful projects and **solve** problems through code.
+Enthusiastic MERN Full Stack Developer with a passion for learning new technologies, building useful applications, and solving problems through code. Currently exploring Artificial Intelligence & Machine Learning, while strengthening Data Structures & Algorithms skills in Java.
 
-Currently, I am exploring **AI & Machine Learning** and improving my skills in **Data Structures & Algorithms**.
 
 <br />
 
