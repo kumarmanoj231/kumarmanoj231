@@ -18,7 +18,90 @@ Enthusiastic MERN Full Stack Developer with a passion for learning new technolog
 
 <br />
 
-## Languages and Tools
+
+
+🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+
+<a href="https://github.com/kumarmanoj231/my-portfolio">
+<img src="https://github.com/kumarmanoj231/my-portfolio/raw/main/assets/preview.png" width="95%" alt="my portfolio"/>
+</a>
+
+<p>
+A clean, responsive developer portfolio built with HTML, CSS & JavaScript.
+</p>
+
+<a href="https://github.com/kumarmanoj231/my-portfolio">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+
+<td align="center" width="50%">
+
+
+<a href="https://github.com/kumarmanoj231/code.prepare">
+<img src="https://github.com/kumarmanoj231/code.prepare/raw/main/preview.png" width="95%" alt="code.prepare Preview"/>
+</a>
+
+<p>
+A modern coding practice and collaborative interview platform built with React, Node.js & MongoDB.
+</p>
+
+<a href="https://github.com/kumarmanoj231/code.prepare">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+
+<a href="https://github.com/kumarmanoj231/Wanderl">
+<img src="https://github.com/kumarmanoj231/Wanderl/raw/main/preview.png" width="95%" alt="Project Preview"/>
+</a>
+
+<p>
+Wanderl is a travel-focused web application that allows users to discover accommodation listings, explore destinations, create and manage their own listings, and share reviews.
+</p>
+
+<a href="https://github.com/kumarmanoj231/Wanderl">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+
+<a href="https://github.com/kumarmanoj231/Streamify">
+<img src="https://github.com/kumarmanoj231/Streamify/raw/main/preview.png" width="95%" alt="Project Preview"/>
+</a>
+
+<p>
+A full-stack language exchange platform with real-time chat and video calling.
+</p>
+
+<a href="https://github.com/kumarmanoj231/Streamify">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 Currently, I use these languages and tools on a regular basis.
 
@@ -58,91 +141,3 @@ Currently, I use these languages and tools on a regular basis.
 ## 📕 Latest Blog Posts
 
 Read my latest blog posts about engineering, tech and more on <a href="https://www.medium.com/@kumarmanoj.dev11">Medium</a> in English.
-
-
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💼 my-portfolio
-
-<a href="https://github.com/kumarmanoj231/my-portfolio">
-<img src="https://github.com/kumarmanoj231/my-portfolio/raw/main/assets/preview.png" width="95%" alt="my portfolio"/>
-</a>
-
-<p>
-A clean, responsive developer portfolio built with HTML, CSS & JavaScript.
-</p>
-
-<a href="https://github.com/kumarmanoj231/my-portfolio">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-
-<td align="center" width="50%">
-
-###  Code.prepare
-
-<a href="https://github.com/kumarmanoj231/code.prepare">
-<img src="https://github.com/kumarmanoj231/code.prepare/raw/main/preview.png" width="95%" alt="code.prepare Preview"/>
-</a>
-
-<p>
-A modern coding practice and collaborative interview platform built with React, Node.js & MongoDB.
-</p>
-
-<a href="https://github.com/kumarmanoj231/code.prepare">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🌐 Wanderl / Sight
-
-<a href="https://github.com/kumarmanoj231/Wanderl">
-<img src="https://github.com/kumarmanoj231/Wanderl/raw/main/preview.png" width="95%" alt="Project Preview"/>
-</a>
-
-<p>
-Wanderl is a travel-focused web application that allows users to discover accommodation listings, explore destinations, create and manage their own listings, and share reviews.
-</p>
-
-<a href="https://github.com/kumarmanoj231/Wanderl">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### ⚡ Streamify
-
-<a href="https://github.com/kumarmanoj231/Streamify">
-<img src="https://github.com/kumarmanoj231/Streamify/raw/main/preview.png" width="95%" alt="Project Preview"/>
-</a>
-
-<p>
-A full-stack language exchange platform with real-time chat and video calling.
-</p>
-
-<a href="https://github.com/kumarmanoj231/Streamify">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
