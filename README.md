@@ -42,24 +42,25 @@ A clean, responsive developer portfolio built with HTML, CSS & JavaScript.
 </a>
 
 </td>
-
-
 <td align="center" width="50%">
 
 
-<a href="https://github.com/kumarmanoj231/code.prepare">
-<img src="https://github.com/kumarmanoj231/code.prepare/raw/main/preview.png" width="95%" alt="code.prepare Preview"/>
+<a href="https://github.com/kumarmanoj231/Ai-Agiculture-Assistant">
+<img src="https://github.com/kumarmanoj231/Ai-Agiculture-Assistant/raw/main/images/preview.png" width="95%" alt="Project Preview"/>
 </a>
 
 <p>
-A modern coding practice and collaborative interview platform built with React, Node.js & MongoDB.
+A Streamlit-based agriculture assistant that combines a Random Forest crop recommendation model, weather forecasting, and Groq-powered AI guidance for farming decisions.
 </p>
 
-<a href="https://github.com/kumarmanoj231/code.prepare">
+<a href="https://github.com/kumarmanoj231/Ai-Agiculture-Assistant">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+
+
+
 </tr>
 
 <tr>
@@ -97,6 +98,28 @@ A full-stack language exchange platform with real-time chat and video calling.
 
 </td>
 </tr>
+
+<tr>
+
+
+<td align="center" width="50%">
+
+
+<a href="https://github.com/kumarmanoj231/code.prepare">
+<img src="https://github.com/kumarmanoj231/code.prepare/raw/main/preview.png" width="95%" alt="code.prepare Preview"/>
+</a>
+
+<p>
+A modern coding practice and collaborative interview platform built with React, Node.js & MongoDB.
+</p>
+
+<a href="https://github.com/kumarmanoj231/code.prepare">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
 </table>
 
 </div>
