@@ -55,97 +55,94 @@ Currently, I use these languages and tools on a regular basis.
 
 <br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
 ## 📕 Latest Blog Posts
 
-Read my latest blog posts about Accessibility, UX Research and more on <a href="https://accessibilityfirst.at/">Accessibility First</a> in German, English or Japanese.
+Read my latest blog posts about engineering, tech and more on <a href="https://www.medium.com/@kumarmanoj.dev11">Medium</a> in English.
 
-<!-- DEV:START -->
-<!--
-- [Red Team vs Blue Team — I Choose You!](https://dev.to/yuridevat/red-team-vs-blue-team-i-choose-you-1ljp)
-- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/gdg/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
-- [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
-- [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
-- [Styling by Language: Using the lang Attribute for Multilingual Design](https://dev.to/yuridevat/styling-by-language-using-the-lang-attribute-for-multilingual-design-1087)
-<!-- DEV:END -->
-<!--
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
 
-<br />
 
-## Achievements
-- 📜 Certified Professional Web Accessibility (CPWA) by [IAAP](https://www.accessibilityassociation.org/cpwa).
-- 🏆 Runner Up - MindsDB x Hashnode Hackathon 2023. Check out my article about the project [Develop Interview Winning Portfolio Projects With Mindsdb Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions) article for this challenge.
-- 🏆 Winner - Hashnode DebuggingFeb Writeathon 2023. Check out my article [How Debugging For Accessibility Helped Me Finally Understand useRef](https://yuridevat.hashnode.dev/how-debugging-for-accessibility-helped-me-finally-understand-useref) for this challenge.
-- 🏆 Winner - Hashnode Writeathon 4 articles 4 weeks 2022. Check out my most engaged article [How I got my first job as a developer](https://yuridevat.hashnode.dev/how-i-got-my-first-job-as-a-developer) for this challenge.
-- 🏆 Runner Up - Clerk x Hashnode Hackathon 2021. Check out my article about the project [SOS Animals App](https://yuridevat.hashnode.dev/sos-animals-hackathon-project) for this challenge.
 
-<br />
+## 🚀 Featured Projects
 
-## Some doors have to be closed to make room for something new
+<div align="center">
 
-Until Spring 2024
-- I was an Open Source Maintainer and founder of <a href="https://www.yuriscodingclub.com/">YurisCodingClub</a>, an inclusive open source community. The projects were part of <a href="https://hacktoberfest.com/">Hacktoberfest</a> to help CodeNewbies get into open source and tech from an early stage.
-- I was a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes/">The Collab Lab</a> since 2021.
-- I was regularly writing blog posts on DEV.to since 2021.
-- In 2021 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
+<table>
+<tr>
+<td align="center" width="50%">
 
+### 💼 my-portfolio
+
+<a href="https://github.com/kumarmanoj231/my-portfolio">
+<img src="https://github.com/kumarmanoj231/my-portfolio/raw/main/assets/preview.png" width="95%" alt="my portfolio"/>
+</a>
+
+<p>
+A clean, responsive developer portfolio built with HTML, CSS & JavaScript.
+</p>
+
+<a href="https://github.com/kumarmanoj231/my-portfolio">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+
+<td align="center" width="50%">
+
+###  Code.prepare
+
+<a href="https://github.com/kumarmanoj231/code.prepare">
+<img src="https://github.com/kumarmanoj231/code.prepare/raw/main/preview.png" width="95%" alt="code.prepare Preview"/>
+</a>
+
+<p>
+A modern coding practice and collaborative interview platform built with React, Node.js & MongoDB.
+</p>
+
+<a href="https://github.com/kumarmanoj231/code.prepare">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🌐 Wanderl / Sight
+
+<a href="https://github.com/kumarmanoj231/Wanderl">
+<img src="https://github.com/kumarmanoj231/Wanderl/raw/main/preview.png" width="95%" alt="Project Preview"/>
+</a>
+
+<p>
+Wanderl is a travel-focused web application that allows users to discover accommodation listings, explore destinations, create and manage their own listings, and share reviews.
+</p>
+
+<a href="https://github.com/kumarmanoj231/Wanderl">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ Streamify
+
+<a href="https://github.com/kumarmanoj231/Streamify">
+<img src="https://github.com/kumarmanoj231/Streamify/raw/main/preview.png" width="95%" alt="Project Preview"/>
+</a>
+
+<p>
+A full-stack language exchange platform with real-time chat and video calling.
+</p>
+
+<a href="https://github.com/kumarmanoj231/Streamify">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
